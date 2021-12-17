@@ -16,6 +16,8 @@ This is an Binance API connect crypto buy and selling platform. That have functi
 - Cloud MIning
 - Locked Maount Profit earning.
 
+- Developed By Md Sharif Uzzaman Rubel > [Know About of me](https://msurubel.com/about).
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
